@@ -1,0 +1,10 @@
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\bin\Debug\Pressure.exe.config
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\bin\Debug\Pressure.exe
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\bin\Debug\Pressure.pdb
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\obj\Debug\Pressure.csproj.AssemblyReference.cache
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\obj\Debug\Pressure.Form1.resources
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\obj\Debug\Pressure.Properties.Resources.resources
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\obj\Debug\Pressure.csproj.GenerateResource.cache
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\obj\Debug\Pressure.csproj.CoreCompileInputs.cache
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\obj\Debug\Pressure.exe
+E:\sadra\developing\ویژوال استدیو\Pressure\Pressure\obj\Debug\Pressure.pdb
